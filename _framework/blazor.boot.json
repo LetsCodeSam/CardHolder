@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "CardHolder.Blazer.SamLabs.dll": "sha256-WKyg+UmrUu6YHXH8RQOBHUwY+sHYIV48CPyyETvOY5o=",
+      "CardHolder.Blazer.SamLabs.dll": "sha256-M7S4z8uNRbCAq56FjL5ANtNaeEdvQtVaDEa4gfVxJdU=",
       "Microsoft.AspNetCore.Components.dll": "sha256-pSMoaHiMWO4+6Ay7LMr9p0xX9M8F6PKtyNW9rq9osAU=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-na5S5WO+K1vy9PYEdKDA2rFNIpOk\/oCjHo4ubdV93BA=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-rKC6GCuMzkmESr2m8q+r862LHeag6Rl5ivFiJ44OU1c=",
